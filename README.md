@@ -1,2 +1,2 @@
-# dicechallenge
-Udemy Activity for randomizing Dice
+# SoCRivals Dice App
+Settler's of Catan Rivals Dice APP
